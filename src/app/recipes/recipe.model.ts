@@ -1,5 +1,3 @@
-import { Settings } from "http2";
-
 export class Recipe {
     public name: string;
     public description: string;
